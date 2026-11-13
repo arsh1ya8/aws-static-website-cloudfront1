@@ -56,3 +56,14 @@ The website uses the following AWS services:
 Syeda Arshiya
 
 [GitHub](https://github.com/arsh1ya8)
+
+## Deployment Screenshots
+
+### Live Website
+![Live Website](screenshots/website-live.png)
+
+### Amazon S3 Bucket
+![S3 Bucket](screenshots/s3-bucket.png)
+
+### CloudFront Distribution
+![CloudFront](screenshots/cloudfront-distribution.png)
